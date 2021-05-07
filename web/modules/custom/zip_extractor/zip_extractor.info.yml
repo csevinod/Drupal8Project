@@ -1,0 +1,6 @@
+name: "Zip import functionality"
+type: module
+description: "Module to extract the zip and import information"
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9

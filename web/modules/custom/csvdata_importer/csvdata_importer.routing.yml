@@ -1,0 +1,7 @@
+csvdata_importer.import_excel:
+  path: '/csvdata/import'
+  defaults:
+    _title: 'Upload sheet'
+    _form: '\Drupal\csvdata_importer\Form\CsvDataImportForm'
+  requirements:
+    _permission: 'Import form'

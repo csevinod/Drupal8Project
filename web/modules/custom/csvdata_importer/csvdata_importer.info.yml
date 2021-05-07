@@ -1,0 +1,6 @@
+name: CSV Data Importer
+type: module
+description: 'Csv Importer Drupal 8 Module for importing excel files.'
+package: Custom
+version: 1.0
+core: 8.x

@@ -1,0 +1,4 @@
+services:
+ csvdata_importer.importcsv:
+   class: Drupal\csvdata_importer\Services\CsvDataServices
+   arguments: []

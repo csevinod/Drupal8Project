@@ -1,0 +1,7 @@
+spreadsheet_importer.import_excel:
+  path: '/spreadsheet/import'
+  defaults:
+    _title: 'Upload sheet'
+    _form: '\Drupal\spreadsheet_importer\Form\ImportexcelForm'
+  requirements:
+    _permission: 'Import form'

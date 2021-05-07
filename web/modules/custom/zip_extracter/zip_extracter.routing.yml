@@ -1,0 +1,7 @@
+zip_extractor.import_excel:
+  path: '/zip/import'
+  defaults:
+    _title: 'Upload sheet'
+    _form: '\Drupal\zip_extracter\Form\ZipExtractorImportForm'
+  requirements:
+    _permission: 'Import form'

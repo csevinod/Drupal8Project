@@ -14,7 +14,7 @@ interface B{
 
 class Dimplements implements A,B{
     function employee($age,$name){
-        echo $age . "  " . $name;
+        echo $age . " This is salary " . $name;
     }
     function employeesal($salary=6000){
         echo $salary;

@@ -1,6 +1,6 @@
 name: Spreadsheet Module
 type: module
-description: 'Spreadsheet Drupal 8 Module for importing excel files to Content types.'
+description: 'Spreadsheet Module for importing excel files to Content types in fast process.'
 package: Custom
 version: 1.0
 core: 8.x
